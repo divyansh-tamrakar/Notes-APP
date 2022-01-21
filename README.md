@@ -4,6 +4,9 @@ the Project is in master branch
 
 For this project I followed a video by Dennis Ivy on youtube. for the most part I knew the django code but not the React part so that is copied in a way. I am unbeknownst to React but I might learn it in near future.
 
+NOTE : in the project's frontend part, the js files are full of syntactical errors due to the misplaced tags. Idk why it happened and I downloaded some extentions just before the video so maybe an extention broke. 
+ 
+
 # TO RUN THE PROJECT 
   
 clone the repository and open the project in VS Code 
