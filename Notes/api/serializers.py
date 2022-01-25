@@ -1,7 +1,7 @@
-from dataclasses import fields
-from django.forms import models
 from rest_framework.serializers import ModelSerializer
 from .models import Note
+
+# serializers here 
 
 
 class NoteSerializer(ModelSerializer):
